@@ -1,0 +1,17 @@
+{
+    margin 0;
+    padding:  0;
+    box-sizing content-box;
+  }
+  
+  body {
+    background-color: #f1f1f1;
+      min-height: 100vh;
+      display: flex;
+  
+  }
+  
+  .buttons {
+      min-width: 700px;
+      display: =flex;
+  }
